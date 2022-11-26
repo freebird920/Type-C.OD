@@ -1,14 +1,19 @@
 # Type C.OD
 
-Type C.OD is a reworked OCD designed by dylan159 of freestompboxes.org. 
+## About author
+Type C.OD is a reworked OCD designed by dylan159 of freestompboxes.org.
 
-## Schematics and more information 
+## Schematics and more information of this pedal
 <p>You can find the schematics and more informatin at: </p>
 
 [freestompboxes.org "Type C. OD (reworked OCD)" thread](https://www.freestompboxes.org/viewtopic.php?t=31284&start=20)
 
-[Author(dylan159)'s blog/archive](https://bentfishbowl.wixsite.com/electronics/post/type-c-od-and-plastic-timbre)
+Author(dylan159)'s blog/archive https://bentfishbowl.wixsite.com/electronics/post/type-c-od-and-plastic-timbre;
 
+## Gerbers information
+I made a 2 layered gerbers with AUTODESK EAGLE. 
+- [ ] Verified
+- [x] NOT Verified
 ---
 ## board images
 

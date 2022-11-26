@@ -5,8 +5,8 @@
 
 ## Schematics and more information 
 <p>You can find the schematics and more informatin at: </p>
-  * [freestompboxes.org "Type C. OD (reworked OCD)" thread](https://www.freestompboxes.org/viewtopic.php?t=31284&start=20)<br/>
-  * [Author(dylan159)'s blog/archive](https://bentfishbowl.wixsite.com/electronics/post/type-c-od-and-plastic-timbre)<br/>
+[freestompboxes.org "Type C. OD (reworked OCD)" thread](https://www.freestompboxes.org/viewtopic.php?t=31284&start=20);
+[Author(dylan159)'s blog/archive](https://bentfishbowl.wixsite.com/electronics/post/type-c-od-and-plastic-timbre)<br/>;
 
 <br/>
 <hr/>

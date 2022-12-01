@@ -9,7 +9,7 @@ Type C.OD is a reworked OCD designed by dylan159 of freestompboxes.org.
 [freestompboxes.org "Type C. OD (reworked OCD)" thread](https://www.freestompboxes.org/viewtopic.php?t=31284&start=20)
 
 
-[Author(dylan159)'s blog] (https://bentfishbowl.wixsite.com/electronics/post/type-c-od-and-plastic-timbre)
+[Author(dylan159)'s blog](https://bentfishbowl.wixsite.com/electronics/post/type-c-od-and-plastic-timbre)
 
 
 ## Gerbers information
